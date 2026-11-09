@@ -2,7 +2,9 @@
 
 ​🎮 Volunteer Opportunity: Help Us Test Raven Rug Agua 3
 
-​Safe Harbor Foundation × PULSE Technologies
+​Safe Harbor Foundation
+× 
+PULSE Technologies
 ​
 We’re dropping a new Android game called Raven Rug Agua 3, and we need 12–20 college students to help us launch it on Google Play.
 
