@@ -6,7 +6,14 @@
 × 
 PULSE Technologies
 ​
-We’re dropping a new Android game called Raven Rug Agua 3, and we need 12–20 college students to help us launch it on Google Play.
+
+
+
+We are dropping a new google play exclusive named
+
+Raven Rug Agua 3, 
+
+and we need 12–20 college students to help us launch it on Google Play.
 
 ​What is Raven Rug?
 
