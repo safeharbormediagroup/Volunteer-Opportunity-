@@ -21,7 +21,7 @@ You learn how market movements, risk, and resource management actually work—us
 
 Understanding how money and trade work can literally open doors to financial freedom. 
 
-We’re using gaming to level that playing field.
+We’re using gaming to - level the playing field.
 
 ​What’s the Volunteer Gig?
 
