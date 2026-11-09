@@ -52,6 +52,6 @@ Zero long sessions or complicated assignments.
 ​Play a little, catch some bugs, and help launch something built for real community impact. 🚀
 
 Disclaimer: individual gameplay directly helps train autonomous pilots designed to teach everyday inventory and asset management covering physical commodities to digital assets and Live market integrations are currently in development, game currency has no real-world cash value, and actual asset trading carries inherent financial risk. 
-This software is provided strictly for usability testing and purposes only.
+This software is provided strictly for usability testing and educational purposes only for now.
 
 thanks 
