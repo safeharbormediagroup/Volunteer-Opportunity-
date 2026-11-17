@@ -76,4 +76,14 @@ Zero long sessions or complicated assignments.
 Disclaimer: individual gameplay directly helps train autonomous pilots designed to teach everyday inventory and asset management covering physical commodities to digital assets and Live market integrations are currently in development, game currency has no real-world cash value, and actual asset trading carries inherent financial risk. 
 This software is provided strictly for usability testing and educational purposes only for now.
 
-thanks 
+
+
+ps ** 🐛 Minor Bug — Retro Nintendo Energy**
+
+Raven Rug occasionally doesn't load on the first attempt. If that happens, restart the game and hit **Skip Intro**.
+
+It's giving *"blow into the Nintendo cartridge and try again"* vibes. 😭🎮
+
+**Status:** Minor loading issue. Restarting and skipping the intro is the current workaround.
+
+thanks
