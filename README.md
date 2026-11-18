@@ -86,4 +86,8 @@ It's giving *"blow into the Nintendo cartridge and try again"* vibes. 😭🎮
 
 **Status:** Minor loading issue. Restarting and skipping the intro is the current workaround.
 
+11/17/0757
+
+fixing the issue now before submission 
+
 thanks
